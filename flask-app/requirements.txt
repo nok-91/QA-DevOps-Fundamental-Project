@@ -1,0 +1,6 @@
+Flask
+Flask-SQLAlchemy==2.5.1
+Flask-Testing
+Flask-WTF
+pytest
+pytest-cov
