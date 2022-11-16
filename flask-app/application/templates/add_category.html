@@ -1,0 +1,12 @@
+{% extends 'layout.html' %}
+    <h2>Add Category</h2>
+    <br>
+    {% block body %}
+    <div class='form'>
+        <form method='POST' action=''>
+            {{ form.hidden_tag() }}
+            {{ form.category_title.label }} {{ form.category_title }}
+            {{ form.submit }}
+        </form>
+    </div>
+    {% endblock body %}
