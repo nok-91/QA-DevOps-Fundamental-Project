@@ -7,7 +7,6 @@ from sqlalchemy import asc
 @app.route('/')
 def home():
     data = db.session.query(Task, Category).join(Category).all()
-    print(data)
     return render_template('home.html', data=data)
         
 
