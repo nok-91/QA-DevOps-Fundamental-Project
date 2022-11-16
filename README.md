@@ -2,4 +2,4 @@
 This repository contains my deliverable for the QA DevOps Fundamental Project.
 
 ## Contents
-*[heading-2](##Project Brief "Goto Project Brief")
+* [heading-2](##Project Brief "Goto Project Brief")
