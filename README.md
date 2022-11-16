@@ -2,22 +2,24 @@
 This repository contains my deliverable for the QA DevOps Fundamental Project.
 
 ## Contents
-*  [Project Brief](###Project-Brief "Goto Project-Brief")
+* [Project Brief](#Project-Brief)  
+* [Design](#App-Design) 
+* [CI Pipeline]
+* [Task App](#Task-App)
+* [Testing](#Testing)
+* [Issues](#Known-Issues)
+* [Future Sprints](#Future-Sprints)
 
+## Project Brief:
 
-## Title
+## Design:
 
-### Place 1
+## CI Pipeline: 
 
-Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
+## Task App
 
-### Place 2
+## Testing
 
-Place one has the fun times of linking here, but I can also link back [here](#place-1).
+## Issues
 
-### Place's 3: other example
-
-Place one has the fun times of linking here, but I can also link back [here](#places-3-other-example).
-
-
-### Project Brief
+## Future Sprints
