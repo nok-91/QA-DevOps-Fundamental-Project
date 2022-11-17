@@ -3,12 +3,11 @@ This repository contains my deliverable for the QA DevOps Fundamental Project.
 
 ## Contents
 * [Project Brief](#Project-Brief)  
-* [Design](#App-Design) 
+* [Design](#Design) 
 * [CI Pipeline](#CI-Pipeline)
-* [Risks](#Task-App)
+* [Risks](#Risks)
 * [Task App](#Task-App)
-* [Testing](#Testing)
-* [Issues](#Known-Issues)
+* [Unit Testing](#Unit-Testing)
 * [Future Sprints](#Future-Sprints)
 
 ## Project Brief:
