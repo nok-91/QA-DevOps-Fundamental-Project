@@ -3,7 +3,7 @@ version: 0.2
 phases:
   install:
     commands:
-      - "echo installing"
+      - "echo Installing"
       - "apt update"
       - "apt install python3 python3-pip -y"
   pre_build:
@@ -12,12 +12,11 @@ phases:
       - "pip3 install -r requirements.txt"
   build:
     commands:
-      - "echo testing"
+      - "echo Testing"
       - "python3 -m pytest --cov --cov-report=html"
-    
   post_build:
     commands:
-      - "echo done!"
+      - "echo Done!"
 
 artifacts:
   files:
