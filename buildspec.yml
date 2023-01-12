@@ -13,6 +13,7 @@ phases:
   build:
     commands:
       - "echo Testing"
+      - "cd .."
       - "python3 -m pytest --cov --cov-report=html"
   post_build:
     commands:
