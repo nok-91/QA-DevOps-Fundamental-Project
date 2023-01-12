@@ -14,3 +14,4 @@ db = SQLAlchemy(app)
 
 
 from application import routes
+from application import models
